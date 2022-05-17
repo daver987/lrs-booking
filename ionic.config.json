@@ -1,0 +1,8 @@
+{
+  "name": "LRS Booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6510a616"
+}
